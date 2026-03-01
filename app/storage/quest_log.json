@@ -1,0 +1,37 @@
+[
+    {
+        "Day": 15,
+        "name": "100 Push-ups",
+        "xp": 300,
+        "target_stat": "Strength",
+        "status": "Complete"
+    },
+    {
+        "Day": 15,
+        "name": "100 Sit-ups",
+        "xp": 300,
+        "target_stat": "Strength",
+        "status": "Complete"
+    },
+    {
+        "Day": 15,
+        "name": "100 Squats",
+        "xp": 300,
+        "target_stat": "Strength",
+        "status": "Complete"
+    },
+    {
+        "Day": 15,
+        "name": "100 Pull-ups",
+        "xp": 300,
+        "target_stat": "Strength",
+        "status": "Complete"
+    },
+    {
+        "Day": 15,
+        "name": "60 min Meditation",
+        "xp": 180,
+        "target_stat": "Willpower",
+        "status": "Complete"
+    }
+]
