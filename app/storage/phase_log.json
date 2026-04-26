@@ -1,0 +1,93 @@
+[
+    {
+        "type": "wakeup",
+        "date": "2026-04-25",
+        "day": 1,
+        "wakeup_time": "04:11",
+        "xp": 60,
+        "stat": "Willpower",
+        "name": "Wakeup at 04:11",
+        "time": "2026-04-25T04:20:38.923965"
+    },
+    {
+        "type": "pillar",
+        "date": "2026-04-25",
+        "day": 1,
+        "name": "Reading",
+        "amount": 5,
+        "unit": "pages",
+        "stat": "Intelligence",
+        "xp": 50,
+        "time": "2026-04-25T07:14:54.338014",
+        "book": "Dopamine detox"
+    },
+    {
+        "type": "pillar",
+        "date": "2026-04-25",
+        "day": 1,
+        "name": "Push-ups",
+        "amount": 100,
+        "unit": "reps",
+        "stat": "Strength",
+        "xp": 300,
+        "time": "2026-04-25T22:48:20.179945",
+        "book": ""
+    },
+    {
+        "type": "pillar",
+        "date": "2026-04-25",
+        "day": 1,
+        "name": "Sit-ups",
+        "amount": 100,
+        "unit": "reps",
+        "stat": "Strength",
+        "xp": 300,
+        "time": "2026-04-25T22:48:22.798229",
+        "book": ""
+    },
+    {
+        "type": "pillar",
+        "date": "2026-04-25",
+        "day": 1,
+        "name": "Squats",
+        "amount": 100,
+        "unit": "reps",
+        "stat": "Strength",
+        "xp": 300,
+        "time": "2026-04-25T22:48:25.642902",
+        "book": ""
+    },
+    {
+        "type": "pillar",
+        "date": "2026-04-25",
+        "day": 1,
+        "name": "Meditation",
+        "amount": 60,
+        "unit": "min",
+        "stat": "Willpower",
+        "xp": 180,
+        "time": "2026-04-25T22:48:28.313666",
+        "book": ""
+    },
+    {
+        "type": "custom",
+        "date": "2026-04-25",
+        "day": 1,
+        "name": "Volleyball",
+        "stat": "Skills",
+        "xp": 180,
+        "time": "2026-04-25T22:48:42.351427"
+    },
+    {
+        "type": "pillar",
+        "date": "2026-04-25",
+        "day": 1,
+        "name": "Pull-ups",
+        "amount": 100,
+        "unit": "reps",
+        "stat": "Strength",
+        "xp": 300,
+        "time": "2026-04-25T22:56:18.855737",
+        "book": ""
+    }
+]
